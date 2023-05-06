@@ -19,6 +19,9 @@
         margin: 0 auto;
         /* padding-left: calc((100% - 425px) / 2 + 40px); */
     } 
+    .about--us--button {
+        column-gap: 18px;
+    }
     .text--justify{
         text-align: justify;
     }
